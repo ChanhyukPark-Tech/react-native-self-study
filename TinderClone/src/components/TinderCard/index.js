@@ -49,12 +49,12 @@ const styles = StyleSheet.create({
     },
     name: {
         fontSize: 30,
-        color: 'white',
+        color: 'black',
         fontWeight: 'bold',
     },
     bio: {
         fontSize: 18,
-        color: 'white',
+        color: 'black',
         lineHeight: 25,
     },
 });

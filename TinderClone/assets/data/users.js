@@ -1,17 +1,17 @@
 export default [
   {
     id: '1',
-    name: 'Vadim Savin',
+    name: 'Chanhyuk Park',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim1.JPG',
-    bio: 'I will be the semicolons to your code',
+      'https://res.cloudinary.com/dvrcr0hkb/image/upload/v1628345832/KakaoTalk_20210807_231545041-removebg-preview_wr5ohu.png',
+    bio: 'I will be a full stack developer',
   },
   {
     id: '2',
-    name: 'Elon Musk',
+    name: 'Hae Chang',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png',
-    bio: 'A dude with a rocket is looking for a gal with fuel',
+      'https://res.cloudinary.com/dvrcr0hkb/image/upload/v1628345831/KakaoTalk_20210807_231427341-removebg-preview_qsmjzp.png',
+    bio: 'looking for a mountain',
   },
   {
     id: '3',
