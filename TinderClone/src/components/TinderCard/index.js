@@ -1,5 +1,6 @@
 import React from 'react';
 import {Text, ImageBackground, View, StyleSheet} from 'react-native';
+
 const Card = props => {
     const {name, image, bio} = props.user;
     return (
@@ -20,8 +21,8 @@ const Card = props => {
 
 const styles = StyleSheet.create({
     card: {
-        width: '95%',
-        height: '70%',
+        width: '100%',
+        height: '100%',
         borderRadius: 10,
         backgroundColor: '#fefefe',
 
